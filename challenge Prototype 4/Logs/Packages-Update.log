@@ -1,0 +1,9 @@
+
+=== Mon Mar 15 23:31:43 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.2.3
+  com.unity.package-manager-ui from version 2.0.8 to 2.0.13
